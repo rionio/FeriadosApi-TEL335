@@ -1,4 +1,4 @@
-![image](https://github.com/rionio/FeriadosApi-TEL335/assets/112905373/07513a63-e8c7-420e-b93f-b0dd588dfadd)# FeriadosApi-TEL335
+# FeriadosApi-TEL335
 Integrantes: 
 
 - Nombre: Joaquín

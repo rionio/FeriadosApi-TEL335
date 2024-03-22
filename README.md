@@ -7,7 +7,7 @@ ROL: 202030530-7
 
 correo: eduardo.novoac@usm.cl
 
-Perfil: Analista
+Perfil: Desarrollador
 
 
 Nombre: Álvaro Alejandro Pozo Fuentes 

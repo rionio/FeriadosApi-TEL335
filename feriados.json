@@ -1,0 +1,152 @@
+[
+    {
+      "nombre": "Año Nuevo",
+      "comentarios": "",
+      "fecha": "2013-01-01",
+      "irrenunciable": "1",
+      "tipo": "Civil",
+      "leyes": [
+        {
+          "nombre": "Ley 20.215",
+          "url": "http://www.leychile.cl/Navegar?idNorma=264651"
+        },
+        {
+          "nombre": "Ley 2.977",
+          "url": "http://www.leychile.cl/Navegar?idNorma=23639"
+        }
+      ]
+    },
+    {
+      "nombre": "Todos los Días Domingos",
+      "comentarios": "",
+      "fecha": "2013-01-01",
+      "irrenunciable": "0",
+      "tipo": "Civil",
+      "leyes": [
+        {
+          "nombre": "Ley 2.977",
+          "url": "http://www.leychile.cl/Navegar?idNorma=23639"
+        }
+      ]
+    },
+    {
+      "nombre": "Viernes Santo",
+      "comentarios": "",
+      "fecha": "2013-03-29",
+      "irrenunciable": "0",
+      "tipo": "Religioso",
+      "leyes": [
+        {
+          "nombre": "Ley 2.977",
+          "url": "http://www.leychile.cl/Navegar?idNorma=23639"
+        }
+      ]
+    },
+    {
+      "nombre": "Sábado Santo",
+      "comentarios": "",
+      "fecha": "2013-03-30",
+      "irrenunciable": "0",
+      "tipo": "Religioso",
+      "leyes": [
+        {
+          "nombre": "Ley 2.977",
+          "url": "http://www.leychile.cl/Navegar?idNorma=23639"
+        }
+      ]
+    },
+    {
+      "nombre": "Día Nacional del Trabajo",
+      "comentarios": "",
+      "fecha": "2013-05-01",
+      "irrenunciable": "1",
+      "tipo": "Civil",
+      "leyes": [
+        {
+          "nombre": "Ley 19.973",
+          "url": "http://www.leychile.cl/Navegar?idNorma=230132"
+        },
+        {
+          "nombre": "Código del Trabajo",
+          "url": "http://www.leychile.cl/Navegar?idNorma=207436"
+        }
+      ]
+    },
+    {
+      "nombre": "Día de las Glorias Navales",
+      "comentarios": "",
+      "fecha": "2013-05-21",
+      "irrenunciable": "0",
+      "tipo": "Civil",
+      "leyes": [
+        {
+          "nombre": "Ley 2.977",
+          "url": "http://www.leychile.cl/Navegar?idNorma=23639"
+        }
+      ]
+    },
+    {
+      "nombre": "San Pedro y San Pablo",
+      "comentarios": "",
+      "fecha": "2013-06-29",
+      "irrenunciable": "0",
+      "tipo": "Religioso",
+      "leyes": [
+        {
+          "nombre": "Ley 2.977",
+          "url": "http://www.leychile.cl/Navegar?idNorma=23639"
+        },
+        {
+          "nombre": "Ley 19.973",
+          "url": "http://www.leychile.cl/Navegar?idNorma=230132"
+        },
+        {
+          "nombre": "Ley 18.432",
+          "url": "http://www.leychile.cl/Navegar?idNorma=29840"
+        }
+      ]
+    },
+    {
+      "nombre": "Día de la Virgen del Carmen",
+      "comentarios": "",
+      "fecha": "2013-07-16",
+      "irrenunciable": "0",
+      "tipo": "Religioso",
+      "leyes": [
+        {
+          "nombre": "Ley 20.148",
+          "url": "http://www.leychile.cl/Navegar?idNorma=257080"
+        }
+      ]
+    },
+    {
+      "nombre": "Asunción de la Virgen",
+      "comentarios": "",
+      "fecha": "2013-08-15",
+      "irrenunciable": "0",
+      "tipo": "Religioso",
+      "leyes": [
+        {
+          "nombre": "Ley 2.977",
+          "url": "http://www.leychile.cl/Navegar?idNorma=23639"
+        }
+      ]
+    },
+    {
+      "nombre": "Independencia Nacional",
+      "comentarios": "",
+      "fecha": "2013-09-18",
+      "irrenunciable": "1",
+      "tipo": "Civil",
+      "leyes": [
+        {
+          "nombre": "Ley 2.977",
+          "url": "http://www.leychile.cl/Navegar?idNorma=23639"
+        },
+        {
+          "nombre": "Ley 19.973",
+          "url": "http://www.leychile.cl/Navegar?idNorma=230132"
+        }
+      ]
+    }
+  ]

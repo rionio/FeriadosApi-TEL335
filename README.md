@@ -1,10 +1,10 @@
 # FeriadosApi-TEL335
 Integrantes: 
 
-- Nombre: Joaquín
-  - ROL: 
-  - Correo: 
-  - Perfil: 
+- Nombre: Joaquín Ignacio Abarca Beretta
+  - ROL: 202030519-6
+  - Correo: joaquin.abarca@usm.cl
+  - Perfil: Gestor
     
 - Nombre: Eduardo Andres Novoa Carrasco
   - ROL: 202030530-7

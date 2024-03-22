@@ -1,17 +1,17 @@
 # FeriadosApi-TEL335
 Integrantes: 
 
-Nombre: Eduardo Andres Novoa Carrasco 
+  Nombre: Eduardo Andres Novoa Carrasco 
 
-ROL: 202030530-7
+  ROL: 202030530-7
 
-correo: eduardo.novoac@usm.cl
+  correo: eduardo.novoac@usm.cl
 
-Perfil: Desarrollador
+  Perfil: Desarrollador
 
 
-Nombre: Álvaro Alejandro Pozo Fuentes 
+  Nombre: Álvaro Alejandro Pozo Fuentes 
 
-ROL: 202030535-8
+  ROL: 202030535-8
 
-Perfil: Analista
+  Perfil: Analista
